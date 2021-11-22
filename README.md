@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cotldus
 - 👀 I’m interested in fintech.
-- 🌱 I’m currently learning Python for data analytics but contributing to a PERN stack as well as a Jeckyll static website.
-- 💞️ I’m looking to collaborate on data science projects.
+- 🌱 I’m currently learning working on ReactJS projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chuastephanie/)
 
 <!---
