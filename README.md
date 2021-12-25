@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cotldus
 - 👀 I’m interested in fintech.
-- 🌱 I’m currently learning working on ReactJS projects
+- 🌱 I’m currently working on ReactJS projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chuastephanie/)
 
 <!---
